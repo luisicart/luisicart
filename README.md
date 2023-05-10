@@ -1,7 +1,11 @@
-### Hi there 👋
-Fond of challenges and solution finding. 
-Experience in people management, financial and commercial areas, which allows me a wider view of businesses. My experience has helped me understand the impact of actions and behavior inside companies to generate helpful and consistent insights.
-Working in this area has helped me discover my passion for data analysis and help companies get insights and answers to improve their business. My goal is to develop further and to excel in meeting companies’ needs.
+### Hi everyone 👋
+🔭 Fond of challenges and solution finding. 
+
+  *My goals are understand the impact of actions and behavior inside companies to generate helpful and consistent insights.
+Working as a data analyst has helped me discover my passion for help companies get insights and answers to improve their business.*
+
+
+
 
 <!--
 **luisicart/luisicart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
