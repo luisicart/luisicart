@@ -1,8 +1,7 @@
 ### Hi everyone 👋
 🔭 Fond of challenges and solution finding. 
 
-  *My goals are understand the impact of actions and behavior inside companies to generate helpful and consistent insights.
-Working as a data analyst has helped me discover my passion for help companies get insights and answers to improve their business.*
+  *My goal is to understand the impacts of business actions and behaviors, generating useful and consistent insights. As a data analyst, discover my passion for helping companies get results and answers to improve their operations and strategies.*
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> </p>
