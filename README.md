@@ -3,7 +3,7 @@
 
   *My goal is to understand the impacts of business actions and behaviors, generating useful and consistent insights. As a data analyst, discover my passion for helping companies get results and answers to improve their operations and strategies.*
   
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 
 <h4 align="left">Languages and Tools:</h4>
 
