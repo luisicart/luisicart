@@ -1,7 +1,12 @@
 ### Hi everyone 👋
 🔭 Fond of challenges and solution finding. 
 
-  *My goal is to understand the impacts of business actions and behaviors, generating useful and consistent insights. As a data analyst, discover my passion for helping companies get results and answers to improve their operations and strategies.*
+  *Currently focused on revenue generation through the creation of Machine Learning solutions.*
+
+   I have over 4+ years of experience in data analysis and planning. I have worked on translating business needs into data, creating visualization layers, data governance, providing self-service access, and experimentation through A/B tests. 
+   I hold a degree in Business Administration and am currently pursuing an MBA in Data Science.
+   
+   My main expertise is transforming business needs into effective Machine Learning solutions, increasing revenue, and reducing costs.
   
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 
