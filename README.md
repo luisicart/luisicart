@@ -1,5 +1,4 @@
 ### Hi everyone 👋
-🔭 Fond of challenges and solution finding. 
 
   *Currently focused on revenue generation through the creation of Machine Learning solutions.*
 
